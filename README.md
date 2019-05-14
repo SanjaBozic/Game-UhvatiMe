@@ -3,7 +3,7 @@
 ## Game for small children,
 ### Made in UPBGE
 
-Game in which you small children learn how to recognize fruit and catch them in a small basket.
+Game in which small children learn how to recognize fruit and catch them in a small basket.
 The fruit falls from the above and you can catch the fruit with a basket which is controlled
 by the arrow keys. If you catch the wrong fruit you lose a life (out of 3 lives). You get a point
 if you catch the right fruit.
