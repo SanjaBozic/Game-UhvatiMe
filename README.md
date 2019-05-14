@@ -1,7 +1,7 @@
 # Uhvati me 
 
 ## Game for small children,
-### Made in UPBGE 0.2.8
+### Made in UPBGE 0.2.3
 
 Game in which small children learn how to recognize fruit and catch them in a small basket.
 The fruit falls from the above and you can catch the fruit with a basket which is controlled
